@@ -21,9 +21,15 @@ Real-time prediction via user input
 Side-by-side comparison of predicted vs actual values
 
 🧰 Libraries Used:
+
 pandas
+
 numpy
+
 sklearn.model_selection
+
 sklearn.preprocessing
+
 sklearn.linear_model
+
 sklearn.metrics
